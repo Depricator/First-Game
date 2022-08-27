@@ -39,6 +39,6 @@ if answer == "y":
 if answer == "l":
   print("You were stabbed by a hobo, Game Over")
 elif answer == "r":
-  print("You were spit on by a super stripper, you've contraced super aids. Game Over")
+  print("You were spit on by a super stripper, you've died from radiation. Game Over")
 elif answer == "c":
   print("You've made it to the Tops Casino, Congratulations, and good luck winning some caps!")
