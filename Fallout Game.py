@@ -1,4 +1,4 @@
-print('''           /||\
+print('''       /||\
                 ||||
                 ||||
                 |||| /|\
@@ -18,7 +18,7 @@ print('''           /||\
         .  \/              \/    .
 . \/             .   \/     .
    __...--..__..__       .     \/
-\/  .   .    \/     \/    __..--..''')
+\/  .   .    \/     \/   . __..--..''')
 print("Welcome to the Mojave Desert.")
 print("Your mission is to make it to the Tops Casino in New Vegas.") 
 
